@@ -1,2 +1,3 @@
 # google-homepage
-Project 1
+Project: HTML/CSS 
+ww.theodinproject.com/web-development-101/html-css?ref=lnav
